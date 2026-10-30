@@ -1,0 +1,8 @@
+*.class
+*.log
+*.jar
+*.war
+*.ear
+.mtj.tmp/
+hs_err_pid*
+.DS_Store
